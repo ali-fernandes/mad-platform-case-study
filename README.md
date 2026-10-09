@@ -4,6 +4,10 @@ Market Action Dynamics (MAD) brings market research, planning models, event timi
 
 **Product lead:** Ali Fernandes, technology transformation leader and former CIO.
 
+## Project timeline
+
+MAD began as a brand and concept in April 2023. Platform development began in spring/summer 2026. I currently develop and lead the project independently.
+
 ## Why I built it
 
 Researching a market decision can mean moving between news, price charts, an economic calendar, personal notes, and trading records. I built MAD to bring those pieces into a connected workflow: research an opportunity, evaluate it against your criteria, see upcoming events, and review actual trading results.
